@@ -1,6 +1,6 @@
 Title: Netflix Dashboard using Tableau
 
-Objective: This project aims to create an insightful Netflix analytics dashboard using Tableau, offering users a visually engaging platform to explorekey metrics and trends, enhancing
+Objective: This project aims to create an insightful Netflix analytics dashboard using Tableau, offering users a visually engaging platform to explore key metrics and trends, enhancing
 understanding and decision-making in the realm of streaming services.
 
 Datasets: [netflix_titles.csv](https://github.com/VishalPolepaka/Netflix_Dashboard_Tableau/blob/25918a63b128ca541c41d5448544cc8a2cb64012/netflix_titles.csv)
